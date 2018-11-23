@@ -1,0 +1,144 @@
+body {
+
+	background-image: url(img/back-ground.jpg);
+	
+	/*background-attachment: fixed;
+	*/
+
+	background-repeat: no-repeat;
+
+	background-position: center;
+	background-position-y: 90px;
+
+/*background-image: url(img/b123.jpg);
+	background-repeat: repeat;
+*/
+	background-color: #A9F5F2;
+
+}
+
+.main li{
+	font-size: 20px;
+}
+
+.header {
+	height: 100px;
+	background-color: #D8F6CE;
+	border-bottom: 1px solid #DDDDDD;
+}
+
+.header-left {
+	float: Left;
+	padding: 10px 40px;
+	color: #ED7000;
+	font-size: 50px;
+
+
+} 
+
+.header-right {
+	float: Right;
+	color: #808080;
+	font-size: 40px;
+}
+
+.header-right li {
+	float: Left;
+	padding: 0px 15px;
+	border-left: 1px solid #DDDDDD;
+	list-style: none;
+}
+
+.header-right a{
+	color: #808080;
+	text-decoration:none;
+}
+
+
+
+.main {
+
+/*
+	float: Left;
+
+ 	padding: 10px 50px;
+
+	*/	
+	margin: 5px;
+	outline: 3px dotted;
+	background-color: rgba(240,240,240,0.5);
+/*
+	width: 800px;
+*/
+
+/*h3.span {
+	font-size: 35px;
+}
+*/
+
+}
+
+.profile .days{
+	float: right;
+	padding-right: 30px;
+	font-size: 20px;
+}
+
+
+
+
+li a{
+	color: #000000;
+	text-decoration: none;
+}
+
+
+
+
+.profile {
+	font-size: 35px;
+	padding:20px 50px;
+	
+
+}
+
+.name {
+	font-size: 30px;
+}
+
+span {
+	color: #0000cd;
+}
+
+p {
+	font-size: 1px;
+	color: rgba(240,240,240,0.5);
+
+}
+
+p.right {
+	font-size:0px;
+}
+
+
+/*
+.tp{
+	position: absolute;
+	right:50px;
+	top:150px;
+	width: 40%;
+	height: 50%;
+	
+
+
+}
+
+
+
+/* .header {
+
+	float:Left;
+}
+
+*/
+
